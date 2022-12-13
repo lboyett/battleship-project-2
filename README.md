@@ -1,1 +1,1 @@
-# battleship-project-2
+# webpack-template
